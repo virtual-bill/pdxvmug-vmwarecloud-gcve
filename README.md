@@ -10,4 +10,5 @@ Thanks to everyone for the time on the PDX VMUG Meeting (11/4/2020) where we cov
 * Google Cloud VMware Engine Introduction
 * Q&A
 
-You can find a .PDF of the presentation here! 
+Feel free to check out the [Presentation](https://github.com/virtual-bill/pdxvmug-vmwarecloud-gcve/blob/main/PDX%20VMUG%20-%20VCPP%20and%20Google%20Cloud%20VMware%20Engine%20-%2020201104.pdf)
+
